@@ -1,0 +1,3 @@
+git remote add origin git@github.com: admnt707 / github-pages-with-jekyll.git
+ git Branch -M master 
+git push -u origin master
